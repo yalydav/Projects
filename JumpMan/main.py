@@ -203,6 +203,7 @@ class Game:
 
 
 def main():
+    # Main Function
     JumpMan = Game()  # create memory area
     JumpMan.set_colors()  # set char & ball colors
     JumpMan.create_and_set_screen()  # create and set screen
